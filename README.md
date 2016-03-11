@@ -43,31 +43,31 @@ Além das informações de cada membro da equipe de desenvolvimento, **é impora
 
 ## 3. Formalização
 
-Com o _Documento de Escopo_ e as informações dos colaboradores, é o momento de formalizar seu projeto. É nesta etapa que um contrato deve ser elaborado e assinado por ambas as partes.
+Com o **Documento de Escopo** e as informações dos colaboradores, é o momento de formalizar seu projeto. É nesta etapa que um contrato deve ser elaborado e assinado por ambas as partes.
 
 ## 4. Preparação do Ambiente
 
-Antes de trabalhar, temos que arrumar a mesa.
+_Antes de trabalhar, temos que arrumar a mesa._
 
 Então nesta etapa seguirão algumas dicas de como organizar seu projeto antes de começar o seu desenvolvimento.
 
-1. Comunicação - Defina algum veículo de comunicação entre os colaboradores do projeto e entre o responsável pelo projeto e seu cliente. Isso pode ser feito por Email, Skype, ou alguma ferramenta específica como o Slack;
-2. Repositórios - Trabalhar com repositórios é indispensável para agilizar e manter a equipe sincronizada, é importante nesta etapa criar, e configurar seus repositórios, além dar permissão para os outros colaboradores;
-3. Definir o nome para o domínio e registrá-lo ou transferí-lo;
-4. Contratar um plano de hospedagem que atenda os requisitos técnicos do projeto;
-5. Configurar o servidor para receber o repositório criado;
+1. **Comunicação** - Defina algum veículo de comunicação entre os colaboradores do projeto e entre o responsável pelo projeto e seu cliente. Isso pode ser feito por Email, Skype, ou alguma ferramenta específica como o Slack;
+2. **Repositórios** - Trabalhar com repositórios é indispensável para agilizar e manter a equipe sincronizada, é importante nesta etapa criar, e configurar seus repositórios, além dar permissão para os outros colaboradores;
+3. Definir o nome para o **domínio** e registrá-lo ou transferí-lo;
+4. Contratar um **plano de hospedagem** que atenda os requisitos técnicos do projeto;
+5. Configurar o **servidor** para receber o repositório criado;
 6. Se for comércio eletrônico:
   1. Definir as instituições bancárias e formas de pagamento;
   2. Abrir conta, assinar convênios e solicitar serviços de comércio eletrônico;
-7. Definir e criar contas de e-mail. Isso é muito importante pois impulsiona o cliente por já ter uma conta de e-mail no seu próprio domínio;
+7. Definir e criar **contas de e-mail**. Isso é muito importante pois impulsiona o cliente por já ter uma conta de e-mail no seu próprio domínio;
 8. Definir e criar uma conta de email específica para o site no gmail. Isso é importante para cadastrar Plugins, Serivços e principalmente Analytics;
-9. Criar contas em redes sociais. É importante que um projeto web tenha seu reflexo nas redes sociais, então, dependendo do que foi acordado, este é o momento para definir os nomes e criar as redes sociais, dentre as mais comuns:
+9. Criar contas em **redes sociais**. É importante que um projeto web tenha seu reflexo nas redes sociais, então, dependendo do que foi acordado, este é o momento para definir os nomes e criar as redes sociais, dentre as mais comuns:
   1. Twitter;
   2. YouTube;
   3. FaceBook;
   4. Instagram;
   5. Google Plus;
-10. Criar ou resgatar conta de monitoramento (Google Analytics)
+10. Criar ou resgatar **conta de monitoramento** (Google Analytics)
 11. Caso o site já exista:
   1. Fazer um backup de segurança do site antigo;
   2. Fazer um backup de segurança do banco de dados antigo;
@@ -75,33 +75,32 @@ Então nesta etapa seguirão algumas dicas de como organizar seu projeto antes d
 
 ## 5. Documentação
 
-Nesta fase deve-se focar os esforços em projetar o website. Em projetos mais complexos, é nesta etapa em que se deve criar os diagramas de Entidades e Relacionamentos e de Classes, por exemplo.
+Nesta fase deve-se focar os esforços em projetar o website. Em projetos mais complexos, é nesta etapa em que se deve criar os diagramas de **Entidades e Relacionamentos** e de **Classes**, por exemplo.
 
-Em projetos menores, basta uma reunião com a equipe de Design para transformar as funcionalidades descritas no _Documento de Escopo_ em _wireframes_.
+Em projetos menores, basta uma reunião com a equipe de Design para transformar as funcionalidades descritas no **Documento de Escopo** em **wireframes**.
 
 ## 6. Criação
 
-Esta etapa é focada aos Designers, _layout_ do website a ser desenvolvido.
+Esta etapa é focada aos Designers, que desenvolverão o _layout_ do website.
 
-Antes da criação do _wireframe_ uma serie de atividades devem ser observadas:
+Antes da criação do **wireframe** uma serie de atividades devem ser observadas:
 
-1. Analisar identidade visual da empresa, produto ou serviço;
-2. Definir seções e blocos de informação;
-3. Desenhar mapa do site e fluxo de navegação;
-4. Estudar e definir a paleta de cores;
-5. Estudar e difinir símbolos e ícones;
-6. Definir tipografia;
-7. Criação/Adaptação de um Logotipo da empresa;
-8. Definir efeitos visuais (recursos multimídia);
-9. Definir nomes das seções e preencher o resto com Lorem Ipsum;
+1. Analisar **identidade visual** da empresa, produto ou serviço;
+2. Definir **seções e blocos** de informação;
+3. Desenhar **mapa do site** e **fluxo de navegação**;
+4. Estudar e definir a **paleta de cores**;
+5. Estudar e difinir **símbolos e ícones**;
+6. Definir **tipografia**;
+7. Criação/Adaptação de um **logotipo da empresa**;
+8. Definir **efeitos visuais** (recursos multimídia);
 
-Com estas etapas definidas e os _wireframes_ prontos, o designer deve iniciar a criação dos arquivos de Imagem.
+Com estas etapas definidas e os **wireframes** prontos, o designer deve iniciar a criação dos arquivos de **Imagem** (PSD).
 
-Via de regra, não é necessário a criação do layout final de todas as páginas, é neste momento que a criação da página principal e uma página interna agiliza muito o trabalho de todos os envolvidos.
+Via de regra, não é necessário a criação do _layout_ final de todas as páginas do projeto. A criação da página principal e uma página interna agiliza muito o trabalho de todos os envolvidos.
 
-Em projeto mais complexos, pode ser interessante a criação de um documento de "Guia de Design" no qual o designer define as etapas anteriores em um documento, e este será o guia do desenvolvedor durante todo o desenvolvimento.
+Em projeto mais complexos, pode ser interessante a criação de um documento de **"Guia de Design"**, no qual o _designer_ define as etapas anteriores em um documento textual, que será o guia do desenvolvedor durante todo o desenvolvimento.
 
-Mas é importante pelo menos as telas mais importantes sejam desenvolvidas, pois elas deverão ser aprovadas pelo cliente antes da próxima etapa.
+Mas é essencial que, pelo menos as telas mais importantes sejam desenvolvidas. Este será o material a ser aprovado pelo cliente antes da próxima etapa.
 
 ## 7. Desenvolvimento
 
