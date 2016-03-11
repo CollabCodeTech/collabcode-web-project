@@ -104,41 +104,45 @@ Mas é essencial que, pelo menos as telas mais importantes sejam desenvolvidas. 
 
 ## 7. Desenvolvimento
 
-Após a aprovação do layout pelo cliente, é nesta etapa que deve-se iniciar o desenvolvimento propriamente dito.
+Após a aprovação do layout pelo cliente, pode-se iniciar o desenvolvimento propriamente dito.
 
-Quase sempre dividimos uma aplicação web em três partes: Front-End, Back-End e Integração.
+Quase sempre dividimos uma aplicação web em três partes: _Front-End_, _Back-End_ e _Integração_.
 
-A parte de Front-End é responsável por transformar a Imagem do site criada pelo Designer em uma página HTML5 funcional com a ajuda da linguagel JavaScript e CSS3. É claro que Front-End abrange muito mais que isso, mas para efeitos deste material, vamos adotar esta limitação.
+A parte de **Front-End** é responsável por transformar a Imagem do site criada pelo Designer em uma página de base codificada (HTML5/JavaScript/CSS) funcional.
 
-A parte de Back-End é responsável por implementar as funcionalidades definidas no Escopo do Projeto.
+A parte de **Back-End** é responsável por implementar as funcionalidades definidas no **Documento de Escopo**.
 
-A parte de Integração é responsável por ligar os as funcionalidades do Back-End com o Layout pronto feito pelo Front-End.
+A parte de **Integração** é responsável por ligar os as funcionalidades do **Back-End** com o _layout+ pronto feito pelo **Front-End**.
 
 Uma série de passos podem ser seguidos para realizar as três etapas com sucesso:
 
-Ps. A ordem destas tarefas pode ficar a critério de cada equipe.
-
 * Criar estrutura de pastas;
-* Baixar, instalar e configurar dependências (frameworks, plugins e APIs);
-* Recortar o Layout e criar base codificada (HTML5/JavaScript/CSS);
-* Criar e organizar Meta-Informações de cada página (MetaTags);
-* Criar OG (OpenGraph) para cada página;
-* Criar Schemas (Schemas.org) para cada elemento da página;
-* Configurar Rotas para as Páginas (ou .httaccess);
+* Baixar, instalar e configurar dependências (_framework_s, _plugins_ e _APIs_);
+* Recortar o _layout_ e criar base codificada (HTML5/JavaScript/CSS);
+* Criar e organizar _Meta-Informações_ de cada página (_MetaTags_);
+* Criar OG (_OpenGraph_) para cada página;
+* Criar Schemas (_Schemas.org_) para cada elemento da página;
+* Configurar rotas para as páginas (ou .httaccess);
 * Configurar ferramenta para minificação de CSS e JS;
-* Criar sitemap.xml;
-* Criar robots.txt;
+* Criar _sitemap.xml_;
+* Criar _robots.txt_;
 * Criar páginas com conteúdo estático;
 * Criar banco de dados;
 * Popular banco de dados com valores iniciais ou importação de dados pré-existentes;
 * Criar estrutura de Back-End: Criação dos CRUDS;
 * Realizar integração Back-End com Front-End;
 
-Com isso pronto é hora de testar.
+Ps. A ordem destas tarefas pode ficar a critério de cada equipe.
+
+Todas as funcionalidades devem ser testadas por cada colaborador, até que o sistema chege a um ponto de maturidade no qual precisa de testes mais específicos.
+
+Cada projeto possui uma particularidade de como os testes serão realizados, testes automáticos quase sempre é uma boa opção para projetos maiores, entretanto, para projetos de medio e pequeno porte, o bom e velho teste convencional dá conta do recado. Pois você passará menos tempos testando que escrevendo os casos de teste.
 
 ## 8. Testes
 
-Esta é uma fase importante, e que provavelmente será feita algumas vezes. Alguns testes que podem ser executados:
+Esta é uma fase importante, e que provavelmente será feita algumas vezes. 
+
+Alguns detalhes que não podem ser esquecidos:
 
 1. Renderização em diferentes navegadores;
 2. Renderização em diferentes versões de navegadores;
@@ -146,6 +150,7 @@ Esta é uma fase importante, e que provavelmente será feita algumas vezes. Algu
 4. Leitura do conteúdo;
 5. Desempenho em ambiente de produção;
 6. Funcionalidades respondem como o esperado?
+7. Qualidade das Imagens;
 
 Além disso é importante utilizar algumas ferramentas de testes automáticos como:
 
@@ -169,41 +174,40 @@ http://seositecheckup.com/
 
 ## 9. Publicação
 
-Depois que os testes foram relizados, é a hora de publicar o website.
+Depois que os testes foram relizados, é a hora de publicar o projeto.
 
-Claro, que seu cliente já deve ter visto uma previa do website em algum ambiente de desenvolvimento, mas é neste momento que o presente deverá ser entregue, então é importante que tudo esteja testado e validado internamente entre a equipe de desenvolvimento antes de ser publicado.
+Claro, que seu cliente já deve ter visto uma previa do website em algum ambiente de desenvolvimento, mas é neste momento que o _presente deverá ser entregue_, então é importante que tudo esteja testado e validado internamente entre a equipe de desenvolvimento antes de ser publicado, para causar uma boa impressão inicial.
 
-E nós sabmos que quase sempre, quando colocamos em um ambiente de produção, nem tudo ocorre como o esperado, algum problema com versão da linguagem ou do banco de dados, então é importante refazer todos os testes também no ambiente final.
+E nós sabmos que, quase sempre, quando colocamos em um ambiente de produção, nem tudo ocorre como o esperado. Algum problema com versão da linguagem ou do banco de dados, então é importante refazer todos os testes também no ambiente final.
 
 Um checklist pode ser executado:
 
-1. Validação de Código
-2. Meta-informações
-3. Título das páginas
-4. Integridade de Links
-5. Qualidade de Imagens
-6.Qualidade de Textos
-7. Funcionamento e navegação de formulários
-8.	Pontos de acessibilidade
+1. Validação de Código;
+2. Meta-informações;
+3. Título das páginas;
+4. Integridade de Links;
+5. Qualidade de Imagens;
+6. Qualidade de Textos;
+7. Funcionamento e navegação de formulários;
+8.Pontos de acessibilidade.
 
-É importante lembrar que nesta etapa normalmente se utiliza uma splash screen com alguma informação de "Site em Construção" até a etapa de liberação do website.
-
+É importante lembrar que nesta etapa normalmente se utiliza uma _SplashScreen_ com alguma informação de _"Site em Construção"_ até a etapa de liberação do website.
 
 ## 10. Otimização
 
 Quando o site é efetivamente publicado, ainda temos que fazer alguns ajutes finos para colocar em ação os scripts de monitoramentos statísticos. Então, agora é a hora de configurar o Analytics do Google.
 
-E é claro que o sitemap.xml tem que ser atualizado, pois o endereço provavelmente é outro.
+E é claro que o sitemap.xml tem que ser atualizado, e para isso você pode utilizar alguma programação interna ou ferramentas personalizadas.
 
 ## 11. Apresentação ao Cliente
 
-Dependendo da complexidade, essa pode ser a hora para a criação de um manual de utilização do site, explicando passo a passo como utilizar o site, e até mesmo sua parte administrativa.
+Dependendo da complexidade, essa pode ser a hora para a criação de um **manual de utilização do site**, explicando passo a passo, como navegar no site, e até mesmo detalhes de sua área administrativa.
 
-Além disso é importante oferecer um treinamento para as pessoas que serão responsáveis por inserir informações no website.
+Além disso, é importante oferecer um treinamento para as pessoas que serão responsáveis alimentar as informações do website.
 
 ## 12. Liberação
 
-Esta etapa é apenas a retirada da splashscreen e a liberação do acesso ao público.
+Esta etapa é apenas a retirada da _SplashScreen_ e a liberação do acesso ao público.
 
 ## 13. Divulgação
 
@@ -216,9 +220,11 @@ O site precisa de um empurrão inicial, então alguns pontos podem ser observado
 
 # Conclusão
 
-Este documento é apenas uma versão pessoal de todo o conhecimento empírico que venho adquirindo ao longo do tempo, e como nunca havia achado um material bacana neste formato, resolvi criar o meu próprio.
+Este documento é apenas uma visão pessoal de todo o conhecimento empírico que venho adquirindo ao longo do tempo, e como nunca havia achado um material bacana neste formato, resolvi criar o meu próprio.
 
-Gostaria muito da sua colaboração.
+Gostou? Gostaria de colaborar?
+
+Entre em contato: diogo@diogocezar.com
 
 Obrigado.
 
