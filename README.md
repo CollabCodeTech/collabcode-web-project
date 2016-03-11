@@ -4,7 +4,7 @@ Vou procurar listar neste repositório, uma checklist de ítems a serem cumprido
 
 Essas métricas se aplicam a projetos simples, com curto prazo de desenvolvimento, mas ajudam a garantir o mínimo de qualidade para um projeto funcional.
 
-É importanr que a cada etapa, sejam gerados artefatos que devem ser armazenados de acordo com algum padrão. Pode ser com a ajuda de algum software ou até mesmo uma planilha. A forma com que estes dados serão organizados fica a critério de cada equipe.
+É importante que a cada etapa, sejam gerados artefatos a serem armazenados de acordo com algum padrão. Pode ser com a ajuda de algum _software_ ou até mesmo uma _planilha_. A forma com que estes dados serão organizados fica a critério de cada equipe.
 
 A seguir os passos para a criação de um *Projeto Web*
 
