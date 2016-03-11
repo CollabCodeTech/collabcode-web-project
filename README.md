@@ -6,11 +6,11 @@ Vou procurar listar neste repositório, uma checklist de ítems a serem cumprido
 
 Essas métricas se aplicam a projetos simples, com curto prazo de desenvolvimento, mas ajudam a garantir o mínimo de qualidade para um projeto funcional.
 
-## Definição
+É importanr que a cada etapa, sejam gerados artefatos que devem ser armazenados de acordo com algum padrão. Pode ser com a ajuda de algum software ou até mesmo uma planilha. A forma com que estes dados serão organizados fica a critério de cada equipe.
 
-A primeira fase de um projeto web é coletar algumas informações e armazená-las de acordo com algum padrão. Pode ser com a ajuda de algum software ou até mesmo uma planilha. A forma com que estes dados serão organizados fica a critério de cada equipe.
+A seguir os passos para a criação de um *Projeto Web*
 
-### 1. Briefing
+## 1. Briefing
 
 Esta é a etapa em que se deve entender o negócio do cliente, entender suas necessidades e junto com ele identificar:
 
@@ -26,7 +26,7 @@ Esta é a etapa em que se deve entender o negócio do cliente, entender suas nec
 
 O Briefing pode gerar um _Documento de Escopo_ que definirá o escopo do projeto. Este documento servirá como guia para o desenvolvimento e é uma garantia por ambas as partes de que o projeto sairá como o combinado.
 
-### 2. Coleta dos Colaboradores
+## 2. Coleta dos Colaboradores
 
 É importante saber quais serão as pessoas envolvidas no projeto, por isso é importante catalogar todos os colaboradores que participarão do projeto, armazenando informações como: Nome Completo, RG, CPF, Redes Sociais e Emails de Contato. 
 
@@ -34,11 +34,11 @@ Essas informações serão úteis na elaboração do contrato e na comunicação
 
 Além das informações de cada membro da equipe de desenvolvimento, é imporante coletar os mesmos dados para os contatos responsáveis na empresa cliente.
 
-### 3. Formalização
+## 3. Formalização
 
 Com o _Documento de Escopo_ e as informações dos colaboradores, é o momento de formalizar seu projeto. É nesta etapa que um contrato deve ser elaborado e assinado por ambas as partes.
 
-### 4. Preparação do Ambiente
+## 4. Preparação do Ambiente
 
 Antes de trabalhar, temos que arrumar a mesa.
 
@@ -66,13 +66,13 @@ Então nesta etapa seguirão algumas dicas de como organizar seu projeto antes d
   2. Fazer um backup de segurança do banco de dados antigo;
   3. Análise de popularidade (Estatísticas de Acesso, Ranking em Ferramentas de Busca). Isso ajudará a mostrar os resultados em comparações com os resultados a serem obtidos com o novo projeto;
 
-### 5. Documentação
+## 5. Documentação
 
 Nesta fase deve-se focar os esforços em projetar o website. Em projetos mais complexos, é nesta etapa em que se deve criar os diagramas de Entidades e Relacionamentos e de Classes, por exemplo.
 
 Em projetos menores, basta uma reunião com a equipe de Design para transformar as funcionalidades descritas no _Documento de Escopo_ em _wireframes_.
 
-### 5. Criação
+## 6. Criação
 
 Esta etapa é focada aos Designers, _layout_ do website a ser desenvolvido.
 
@@ -96,7 +96,7 @@ Em projeto mais complexos, pode ser interessante a criação de um documento de 
 
 Mas é importante pelo menos as telas mais importantes sejam desenvolvidas, pois elas deverão ser aprovadas pelo cliente antes da próxima etapa.
 
-### 6. Desenvolvimento
+## 7. Desenvolvimento
 
 Após a aprovação do layout pelo cliente, é nesta etapa que deve-se iniciar o desenvolvimento propriamente dito.
 
@@ -130,7 +130,7 @@ Ps. A ordem destas tarefas pode ficar a critério de cada equipe.
 
 Com isso pronto é hora de testar.
 
-### 7. Testes
+## 8. Testes
 
 Esta é uma fase importante, e que provavelmente será feita algumas vezes. Alguns testes que podem ser executados:
 
@@ -143,25 +143,25 @@ Esta é uma fase importante, e que provavelmente será feita algumas vezes. Algu
 
 Além disso é importante utilizar algumas ferramentas de testes automáticos como:
 
-#### Teste de responsividade
+### Teste de responsividade
 
 https://www.google.com/webmasters/tools/mobile-friendly
 
-#### Schemas
+### Schemas
 
 https://developers.google.com/structured-data/testing-tool/
 
-#### Meta Tags
+### Meta Tags
 
 http://www.seocentro.com/tools/search-engines/metatag-analyzer.html
 
 http://analyzer.metatags.org/
 
-#### SEO
+### SEO
 
 http://seositecheckup.com/
 
-### 8. Publicação
+## 9. Publicação
 
 Depois que os testes foram relizados, é a hora de publicar o website.
 
@@ -183,23 +183,23 @@ Um checklist pode ser executado:
 É importante lembrar que nesta etapa normalmente se utiliza uma splash screen com alguma informação de "Site em Construção" até a etapa de liberação do website.
 
 
-### 9. Otimização
+## 10. Otimização
 
 Quando o site é efetivamente publicado, ainda temos que fazer alguns ajutes finos para colocar em ação os scripts de monitoramentos statísticos. Então, agora é a hora de configurar o Analytics do Google.
 
 E é claro que o sitemap.xml tem que ser atualizado, pois o endereço provavelmente é outro.
 
-### 10. Apresentação ao Cliente
+## 11. Apresentação ao Cliente
 
 Dependendo da complexidade, essa pode ser a hora para a criação de um manual de utilização do site, explicando passo a passo como utilizar o site, e até mesmo sua parte administrativa.
 
 Além disso é importante oferecer um treinamento para as pessoas que serão responsáveis por inserir informações no website.
 
-### 10. Liberação
+## 12. Liberação
 
 Esta etapa é apenas a retirada da splashscreen e a liberação do acesso ao público.
 
-### 11. Divulgação
+## 13. Divulgação
 
 O site precisa de um empurrão inicial, então alguns pontos podem ser observados:
 
