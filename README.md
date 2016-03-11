@@ -6,31 +6,40 @@ Essas métricas se aplicam a projetos simples, com curto prazo de desenvolviment
 
 É importante que a cada etapa, sejam gerados artefatos a serem armazenados de acordo com algum padrão. Pode ser com a ajuda de algum _software_ ou até mesmo uma _planilha_. A forma com que estes dados serão organizados fica a critério de cada equipe.
 
-A seguir os passos para a criação de um *Projeto Web*
+A seguir os passos para a criação de um **Projeto Web**:
 
 ## 1. Briefing
 
-Esta é a etapa em que se deve entender o negócio do cliente, entender suas necessidades e junto com ele identificar:
+Esta é a etapa em que se deve entender o negócio do cliente, suas necessidades, e junto com ele identificar:
 
 1. Como é seu negócio? Como é o seu produto? Como será o seu serviço?
-2. Qual será o objetivo do website?
-3. Qual será o público-alvo deste cliente? Quando possível identificar:
+2. Qual será o objetivo do _website_?
+3. Qual será o público-alvo? Quando possível identificar:
   1. Classe Social;
   2. Sexo;
   3. Faixa-etária;
   4. Limitações Técnicas;
   5. Necessitam de algum tipo de Acessibilidade?
-4. Definir o escopo do site. Neste momento é importante definir quais serão as funcionalidades que o website deverá apresentar.
 
-O Briefing pode gerar um _Documento de Escopo_ que definirá o escopo do projeto. Este documento servirá como guia para o desenvolvimento e é uma garantia por ambas as partes de que o projeto sairá como o combinado.
+Com estas informações, é hora de definir o escopo do projeto. Neste momento é importante definir quais serão as funcionalidades que o website deverá apresentar.
+
+O Briefing pode gerar um **Documento de Escopo**. Este documento servirá de guia para o desenvolvimento, e é uma garantia por ambas as partes de que o projeto sairá como o combinado.
 
 ## 2. Coleta dos Colaboradores
 
-É importante saber quais serão as pessoas envolvidas no projeto, por isso é importante catalogar todos os colaboradores que participarão do projeto, armazenando informações como: Nome Completo, RG, CPF, Redes Sociais e Emails de Contato. 
+É importante saber quais serão as pessoas envolvidas no projeto, por isso é importante catalogar todos os colaboradores que participarão do projeto, armazenando informações como:
+
+1. Nome Completo;
+2. RG;
+3. CPF;
+4. Redes Sociais;
+5. Endereço;
+6. Telefones;
+7. Emails. 
 
 Essas informações serão úteis na elaboração do contrato e na comunicação entre os envolvidos.
 
-Além das informações de cada membro da equipe de desenvolvimento, é imporante coletar os mesmos dados para os contatos responsáveis na empresa cliente.
+Além das informações de cada membro da equipe de desenvolvimento, **é imporante coletar os mesmos dados para os contatos responsáveis no cliente**.
 
 ## 3. Formalização
 
