@@ -110,20 +110,71 @@ A parte de Integração é responsável por ligar os as funcionalidades do Back-
 
 Uma série de passos podem ser seguidos para realizar as três etapas com sucesso:
 
-1. Criar estrutura de pastas;
-2. Baixar, instalar e configurar dependências (frameworks, plugins e APIs);
-3. Recortar o Layout e criar base codificada (HTML5/JavaScript/CSS);
-4. Criar e organizar Meta-Informações de cada página: MetaTags;
-5. Criar OG para cada página;
-6. Criar Schemas para cada elemento da página (facilitando a 
+Ps. A ordem destas tarefas pode ficar a critério de cada equipe.
 
+* Criar estrutura de pastas;
+* Baixar, instalar e configurar dependências (frameworks, plugins e APIs);
+* Recortar o Layout e criar base codificada (HTML5/JavaScript/CSS);
+* Criar e organizar Meta-Informações de cada página (MetaTags);
+* Criar OG (OpenGraph) para cada página;
+* Criar Schemas (Schemas.org) para cada elemento da página;
+* Configurar Rotas para as Páginas (ou .httaccess);
+* Configurar ferramenta para minificação de CSS e JS;
+* Criar sitemap.xml;
+* Criar robots.txt;
+* Criar páginas com conteúdo estático;
+* Criar banco de dados;
+* Popular banco de dados com valores iniciais ou importação de dados pré-existentes;
+* Criar estrutura de Back-End: Criação dos CRUDS;
+* Realizar integração Back-End com Front-End;
 
+Com isso pronto é hora de testar.
 
+### 7. Testes
 
+Esta é uma fase importante, e que provavelmente será feita algumas vezes. Alguns testes que podem ser executados:
+
+1. Renderização em diferentes navegadores;
+2. Renderização em diferentes versões de navegadores;
+3. Navegação da página;
+4. Leitura do conteúdo;
+5. Desempenho em ambiente de produção;
+6. Funcionalidades respondem como o esperado?
+
+Além disso é importante utilizar algumas ferramentas de testes automáticos como:
+
+#### Teste de responsividade
+
+https://www.google.com/webmasters/tools/mobile-friendly
+
+#### Schemas
+
+https://developers.google.com/structured-data/testing-tool/
+
+#### Meta Tags
+
+http://www.seocentro.com/tools/search-engines/metatag-analyzer.html
+
+http://analyzer.metatags.org/
+
+#### SEO
+
+http://seositecheckup.com/
+
+### 8. Publicação
+
+Depois que os testes foram relizados, é a hora de publicar o website.
+
+Claro, que seu cliente já deve ter visto uma previa do website em algum ambiente de desenvolvimento, mas é neste momento que o presente deverá ser entregue, então é importante que tudo esteja testado e validado internamente entre a equipe de desenvolvimento antes de ser publicado.
+
+E nós sabmos que quase sempre, quando colocamos em um ambiente de produção, nem tudo ocorre como o esperado, algum problema com versão da linguagem ou do banco de dados, então é importante refazer todos os testes também no ambiente final.
+
+### 
 
 
 # Links e Sugestões de Ferramentas
 
-1) Ferramenta de Comunicação: http://www.slack.com
-2) Repositório: http://www.gitlab.com
-
+1. Ferramenta de Comunicação: http://www.slack.com
+2. Repositório: http://www.gitlab.com
+3. Ferramenta para Geração de sitemap.xml: https://www.xml-sitemaps.com/
+4. Ferramenta para Geração de robots.txt: http://tools.seobook.com/robots-txt/generator/
