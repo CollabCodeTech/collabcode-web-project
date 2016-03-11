@@ -28,7 +28,9 @@ O Briefing pode gerar um _Documento de Escopo_ que definirá o escopo do projeto
 
 ### 2. Coleta dos Colaboradores
 
-É importante saber quais serão as pessoas envolvidas no projeto, por isso é importante catalogar todos os colaboradores que participarão do projeto, armazenando informações como: Nome Completo, RG, CPF, Redes Sociais, Emails de Contato. Essas informações serão úteis na elaboração do contrato e na comunicação entre os envolvidos.
+É importante saber quais serão as pessoas envolvidas no projeto, por isso é importante catalogar todos os colaboradores que participarão do projeto, armazenando informações como: Nome Completo, RG, CPF, Redes Sociais e Emails de Contato. 
+
+Essas informações serão úteis na elaboração do contrato e na comunicação entre os envolvidos.
 
 Além das informações de cada membro da equipe de desenvolvimento, é imporante coletar os mesmos dados para os contatos responsáveis na empresa cliente.
 
@@ -42,6 +44,33 @@ Antes de trabalhar, temos que arrumar a mesa.
 
 Então nesta etapa seguirão algumas dicas de como organizar seu projeto antes de começar o seu desenvolvimento.
 
-1. Comunicação
-2. 
+1. Comunicação - Defina algum veículo de comunicação entre os colaboradores do projeto e entre o responsável pelo projeto e seu cliente. Isso pode ser feito por Email, Skype, ou alguma ferramenta específica como o Slack;
+2. Repositórios - Trabalhar com repositórios é indispensável para agilizar e manter a equipe sincronizada, é importante nesta etapa criar, e configurar seus repositórios, além dar permissão para os outros colaboradores;
+3. Definir o nome para o domínio e registrá-lo ou transferí-lo;
+4. Contratar um plano de hospedagem que atenda os requisitos técnicos do projeto;
+5. Configurar o servidor para receber o repositório criado;
+6. Se for comércio eletrônico:
+  1. Definir as instituições bancárias e formas de pagamento;
+  2. Abrir conta, assinar convênios e solicitar serviços de comércio eletrônico;
+7. Definir e criar contas de e-mail. Isso é muito importante pois impulsiona o cliente por já ter uma conta de e-mail no seu próprio domínio;
+8. Definir e criar uma conta de email específica para o site no gmail. Isso é importante para cadastrar Plugins, Serivços e principalmente Analytics;
+9. Criar contas em redes sociais. É importante que um projeto web tenha seu reflexo nas redes sociais, então, dependendo do que foi acordado, este é o momento para definir os nomes e criar as redes sociais, dentre as mais comuns:
+  1. Twitter;
+  2. YouTube;
+  3. FaceBook;
+  4. Instagram;
+  5. Google Plus;
+10. Criar ou resgatar conta de monitoramento (Google Analytics)
+11. Caso o site já exista:
+  1. Fazer um backup de segurança do site antigo;
+  2. Fazer um backup de segurança do banco de dados antigo;
+  3. Análise de popularidade (Estatísticas de Acesso, Ranking em Ferramentas de Busca). Isso ajudará a mostrar os resultados em comparações com os resultados a serem obtidos com o novo projeto;
+
+### 4. 
+
+
+# Links e Sugestões de Ferramentas
+
+1) Ferramenta de Comunicação: http://www.slack.com
+2) Repositório: http://www.gitlab.com
 
