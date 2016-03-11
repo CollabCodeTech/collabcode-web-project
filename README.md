@@ -38,7 +38,7 @@ Além das informações de cada membro da equipe de desenvolvimento, é imporant
 
 Com o _Documento de Escopo_ e as informações dos colaboradores, é o momento de formalizar seu projeto. É nesta etapa que um contrato deve ser elaborado e assinado por ambas as partes.
 
-### 3. Preparação do Ambiente
+### 4. Preparação do Ambiente
 
 Antes de trabalhar, temos que arrumar a mesa.
 
@@ -66,7 +66,60 @@ Então nesta etapa seguirão algumas dicas de como organizar seu projeto antes d
   2. Fazer um backup de segurança do banco de dados antigo;
   3. Análise de popularidade (Estatísticas de Acesso, Ranking em Ferramentas de Busca). Isso ajudará a mostrar os resultados em comparações com os resultados a serem obtidos com o novo projeto;
 
-### 4. 
+### 5. Documentação
+
+Nesta fase deve-se focar os esforços em projetar o website. Em projetos mais complexos, é nesta etapa em que se deve criar os diagramas de Entidades e Relacionamentos e de Classes, por exemplo.
+
+Em projetos menores, basta uma reunião com a equipe de Design para transformar as funcionalidades descritas no _Documento de Escopo_ em _wireframes_.
+
+### 5. Criação
+
+Esta etapa é focada aos Designers, _layout_ do website a ser desenvolvido.
+
+Antes da criação do _wireframe_ uma serie de atividades devem ser observadas:
+
+1. Analisar identidade visual da empresa, produto ou serviço;
+2. Definir seções e blocos de informação;
+3. Desenhar mapa do site e fluxo de navegação;
+4. Estudar e definir a paleta de cores;
+5. Estudar e difinir símbolos e ícones;
+6. Definir tipografia;
+7. Criação/Adaptação de um Logotipo da empresa;
+8. Definir efeitos visuais (recursos multimídia);
+9. Definir nomes das seções e preencher o resto com Lorem Ipsum;
+
+Com estas etapas definidas e os _wireframes_ prontos, o designer deve iniciar a criação dos arquivos de Imagem.
+
+Via de regra, não é necessário a criação do layout final de todas as páginas, é neste momento que a criação da página principal e uma página interna agiliza muito o trabalho de todos os envolvidos.
+
+Em projeto mais complexos, pode ser interessante a criação de um documento de "Guia de Design" no qual o designer define as etapas anteriores em um documento, e este será o guia do desenvolvedor durante todo o desenvolvimento.
+
+Mas é importante pelo menos as telas mais importantes sejam desenvolvidas, pois elas deverão ser aprovadas pelo cliente antes da próxima etapa.
+
+### 6. Desenvolvimento
+
+Após a aprovação do layout pelo cliente, é nesta etapa que deve-se iniciar o desenvolvimento propriamente dito.
+
+Quase sempre dividimos uma aplicação web em três partes: Front-End, Back-End e Integração.
+
+A parte de Front-End é responsável por transformar a Imagem do site criada pelo Designer em uma página HTML5 funcional com a ajuda da linguagel JavaScript e CSS3. É claro que Front-End abrange muito mais que isso, mas para efeitos deste material, vamos adotar esta limitação.
+
+A parte de Back-End é responsável por implementar as funcionalidades definidas no Escopo do Projeto.
+
+A parte de Integração é responsável por ligar os as funcionalidades do Back-End com o Layout pronto feito pelo Front-End.
+
+Uma série de passos podem ser seguidos para realizar as três etapas com sucesso:
+
+1. Criar estrutura de pastas;
+2. Baixar, instalar e configurar dependências (frameworks, plugins e APIs);
+3. Recortar o Layout e criar base codificada (HTML5/JavaScript/CSS);
+4. Criar e organizar Meta-Informações de cada página: MetaTags;
+5. Criar OG para cada página;
+6. Criar Schemas para cada elemento da página (facilitando a 
+
+
+
+
 
 
 # Links e Sugestões de Ferramentas
