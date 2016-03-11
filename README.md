@@ -169,8 +169,52 @@ Claro, que seu cliente já deve ter visto uma previa do website em algum ambient
 
 E nós sabmos que quase sempre, quando colocamos em um ambiente de produção, nem tudo ocorre como o esperado, algum problema com versão da linguagem ou do banco de dados, então é importante refazer todos os testes também no ambiente final.
 
-### 
+Um checklist pode ser executado:
 
+1. Validação de Código
+2. Meta-informações
+3. Título das páginas
+4. Integridade de Links
+5. Qualidade de Imagens
+6.Qualidade de Textos
+7. Funcionamento e navegação de formulários
+8.	Pontos de acessibilidade
+
+É importante lembrar que nesta etapa normalmente se utiliza uma splash screen com alguma informação de "Site em Construção" até a etapa de liberação do website.
+
+
+### 9. Otimização
+
+Quando o site é efetivamente publicado, ainda temos que fazer alguns ajutes finos para colocar em ação os scripts de monitoramentos statísticos. Então, agora é a hora de configurar o Analytics do Google.
+
+E é claro que o sitemap.xml tem que ser atualizado, pois o endereço provavelmente é outro.
+
+### 10. Apresentação ao Cliente
+
+Dependendo da complexidade, essa pode ser a hora para a criação de um manual de utilização do site, explicando passo a passo como utilizar o site, e até mesmo sua parte administrativa.
+
+Além disso é importante oferecer um treinamento para as pessoas que serão responsáveis por inserir informações no website.
+
+### 10. Liberação
+
+Esta etapa é apenas a retirada da splashscreen e a liberação do acesso ao público.
+
+### 11. Divulgação
+
+O site precisa de um empurrão inicial, então alguns pontos podem ser observados:
+
+1. Realizar parcerias ou trocas de banners ou links, entre sites de amigos ou parceiros de negócios;
+2. Buscar alternativas de publicidades online, como portais de conteúdo (UOL, TERRA, IG, GLOBO.COM), ou sites de conteúdo direcionado;
+3. Buscar alternativas de anúncios pagos em serviços de busca (Links Patrocinados);
+4. Realizar o acompanhamento e mensuração dos resultados de seus investimentos em publicidade de divulgação do site.
+
+# Conclusão
+
+Este documento é apenas uma versão pessoal de todo o conhecimento empírico que venho adquirindo ao longo do tempo, e como nunca havia achado um material bacana neste formato, resolvi criar o meu próprio.
+
+Gostaria muito da sua colaboração.
+
+Obrigado.
 
 # Links e Sugestões de Ferramentas
 
