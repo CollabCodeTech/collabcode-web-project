@@ -235,7 +235,8 @@ Obrigado.
 3. Ferramenta para Geração de sitemap.xml: https://www.xml-sitemaps.com/
 4. Ferramenta para Geração de robots.txt: http://tools.seobook.com/robots-txt/generator/
 
-### USABILIDADE E PESQUISA
+## Usabilidade e Pesquisa
+
 * UsabilityHub - https://usabilityhub.com/
 * Usabilla - https://usabilla.com/
 * Morae - https://www.techsmith.com/morae.html
@@ -245,14 +246,16 @@ Obrigado.
 * MaterialUp - http://www.materialup.com/
 * Pintrest - https://br.pinterest.com/
 
-### ARQUITETURA DE INFORMAÇÃO, FLUXOGRAMAS E SITEMAPS
+## Arquitetura de Informação, Fluxogramas e SiteMaps
+
 * Google Draw - https://docs.google.com/drawings/
 * Draw.io - https://www.draw.io/
 * Illustrator CC - http://www.adobe.com/br/products/illustrator.html
 * Gliffy - https://www.gliffy.com/
 * Axure - http://www.axure.com/
 
-### WIREFRAMES E PROTOTIPAÇÃO
+## Wireframes e Prototipação
+
 * Axure - http://www.axure.com/
 * QuirkTools - http://quirktools.com/wires/p0njrs/
 * Pixate - http://www.pixate.com/
@@ -261,18 +264,21 @@ Obrigado.
 * Invision (Prototipação colaborativa) - http://www.invisionapp.com/
 * Adobe Experience Design (Preview) - http://www.adobe.com/jp/products/experience-design.html
 
-### DESIGN (WEB-DESIGN)
+## Design
+
 * Photoshop - http://www.adobe.com/br/products/photoshop.html
 * Fireworks - http://www.adobe.com/br/products/fireworks.html
 * Illustrator CC - http://www.adobe.com/br/products/illustrator.html
 
-### CODIFICAÇÃO
+## Codificação
+
 * SublimeText - https://www.sublimetext.com/
 * Dreamweaver - http://www.adobe.com/br/products/dreamweaver.html
 * Visual Studio - https://code.visualstudio.com/
 * Brackets - http://brackets.io/
 
-### SEO & OTIMIZAÇÃO
+## SEO & Otimização
+
 * Google Webmaster - https://www.google.com/intl/pt-BR/webmasters/#?modal_active=none
 * Google Analytics - https://www.google.com/intl/pt-BR/analytics/
 * Good Adwords (Key Planner) - https://adwords.google.com.br/KeywordPlanner
@@ -280,8 +286,10 @@ Obrigado.
 * Woorank - https://www.woorank.com/pt
 * OpenLinkProfiler - http://openlinkprofiler.org/
 * Moz - https://moz.com/products/pro
+* http://tableless.com.br/seo-iniciantes-basico/
 
-### OUTROS
+## Outros
+
 * Asana - https://app.asana.com/0/102300481623694/102300481623695
 * Redepen - https://redpen.io/
 * GhostLab (Igual ao AdobeEdge) - https://www.vanamco.com/ghostlab/
