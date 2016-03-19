@@ -285,3 +285,5 @@ Obrigado.
 * Asana - https://app.asana.com/0/102300481623694/102300481623695
 * Redepen - https://redpen.io/
 * GhostLab (Igual ao AdobeEdge) - https://www.vanamco.com/ghostlab/
+
+Os links foram baseados no material Leonardo Ferreira, disponivel em: https://www.youtube.com/watch?v=f15NQEyKoDU
