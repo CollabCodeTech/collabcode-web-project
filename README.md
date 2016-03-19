@@ -114,7 +114,7 @@ A parte de **Front-End** é responsável por transformar a Imagem do site criada
 
 A parte de **Back-End** é responsável por implementar as funcionalidades definidas no **Documento de Escopo**.
 
-A parte de **Integração** é responsável por ligar os as funcionalidades do **Back-End** com o _layout+ pronto feito pelo **Front-End**.
+A parte de **Integração** é responsável por ligar os as funcionalidades do **Back-End** com o **Front-End**. Normalmente isso pode ser feito através de integrações JavaScript do **Front-End** que consomem a API definida no **Back-End**.
 
 Uma série de passos podem ser seguidos para realizar as três etapas com sucesso:
 
