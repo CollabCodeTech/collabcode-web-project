@@ -25,6 +25,8 @@ Com estas informações, é hora de definir o escopo do projeto. Neste momento �
 
 O Briefing pode gerar um **Documento de Escopo**. Este documento servirá de guia para o desenvolvimento, e é uma garantia por ambas as partes de que o projeto sairá como o combinado.
 
+Um importante artefado que pode ser incluído no **Documento de Escopo** é o **SiteMap**, no qual todas as páginas e ligações entre elas estarão identificadas em um diagrama.
+
 ## 2. Coleta dos Colaboradores
 
 É importante saber quais serão as pessoas envolvidas no projeto, por isso é importante catalogar todos os colaboradores que participarão do projeto, armazenando informações como:
