@@ -1,10 +1,29 @@
 # Projeto para Web
 
-Vou procurar listar neste repositório, uma checklist de ítems a serem cumpridos em um projeto web.
+Vou procurar listar neste repositório, uma __checklist__ de ítems a serem cumpridos em um projeto __web__.
 
 Essas métricas se aplicam a projetos simples, com curto prazo de desenvolvimento, mas ajudam a garantir o mínimo de qualidade para um projeto funcional.
 
 É importante que a cada etapa, sejam gerados artefatos a serem armazenados de acordo com algum padrão. Pode ser com a ajuda de algum _software_ ou até mesmo uma _planilha_. A forma com que estes dados serão organizados fica a critério de cada equipe.
+
+## Índice
+
+1. [Briefing](#briefing)
+2. [Coleta dos Colaboradores](#coleta-dos-colaboradores)
+3. [Formalização](#formalizacao)
+4. [Preparação do Ambiente](#preparacao-do-ambinete)
+5. [Documentação](#documentacao)
+6. [Criação](#criacao)
+7. [Desenvolvimento](#desenvolvimento)
+8. [Testes](#testes)
+9. [Publicação](#publicacao)
+10. [Otimização](#otimizacao)
+11. [Apresentação ao Cliente](#apresentacao-ao-cliente)
+12. [Liberação](#liberacao)
+13. [Divulgação](#divulgacao)
+14. [Conclusão](#conclusao)
+
+***
 
 A seguir os passos para a criação de um **Projeto Web**:
 
@@ -37,7 +56,7 @@ Um importante artefado que pode ser incluído no **Documento de Escopo** é o **
 4. Redes Sociais;
 5. Endereço;
 6. Telefones;
-7. Emails. 
+7. Emails.
 
 Essas informações serão úteis na elaboração do contrato e na comunicação entre os envolvidos.
 
@@ -142,7 +161,7 @@ Cada projeto possui uma particularidade de como os testes serão realizados, tes
 
 ## 8. Testes
 
-Esta é uma fase importante, e que provavelmente será feita algumas vezes. 
+Esta é uma fase importante, e que provavelmente será feita algumas vezes.
 
 Alguns detalhes que não podem ser esquecidos:
 
@@ -220,7 +239,7 @@ O site precisa de um empurrão inicial, então alguns pontos podem ser observado
 3. Buscar alternativas de anúncios pagos em serviços de busca (Links Patrocinados);
 4. Realizar o acompanhamento e mensuração dos resultados de seus investimentos em publicidade de divulgação do site.
 
-# Conclusão
+# 14. Conclusão
 
 Este documento é apenas uma visão pessoal de todo o conhecimento empírico que venho adquirindo ao longo do tempo, e como nunca havia achado um material bacana neste formato, resolvi criar o meu próprio.
 
@@ -228,72 +247,10 @@ Gostou? Gostaria de colaborar?
 
 Entre em contato: diogo@diogocezar.com
 
+Além disso, uma serie de links podem complementar a sua pesquisa.
+
+Estão neste repositório:
+
+https://github.com/diogocezar/dctb-links
+
 Obrigado.
-
-# Links e Sugestões de Ferramentas
-
-1. Ferramenta de Comunicação: http://www.slack.com
-2. Repositório: http://www.gitlab.com
-3. Ferramenta para Geração de sitemap.xml: https://www.xml-sitemaps.com/
-4. Ferramenta para Geração de robots.txt: http://tools.seobook.com/robots-txt/generator/
-
-## Usabilidade e Pesquisa
-
-* UsabilityHub - https://usabilityhub.com/
-* Usabilla - https://usabilla.com/
-* Morae - https://www.techsmith.com/morae.html
-* Testaisso - http://www.testaisso.com.br/
-* Dribbble - https://dribbble.com/
-* Behance - https://www.behance.net/
-* MaterialUp - http://www.materialup.com/
-* Pintrest - https://br.pinterest.com/
-
-## Arquitetura de Informação, Fluxogramas e SiteMaps
-
-* Google Draw - https://docs.google.com/drawings/
-* Draw.io - https://www.draw.io/
-* Illustrator CC - http://www.adobe.com/br/products/illustrator.html
-* Gliffy - https://www.gliffy.com/
-* Axure - http://www.axure.com/
-
-## Wireframes e Prototipação
-
-* Axure - http://www.axure.com/
-* QuirkTools - http://quirktools.com/wires/p0njrs/
-* Pixate - http://www.pixate.com/
-* Fireworks - http://www.adobe.com/br/products/fireworks.html
-* Sketch V3 - https://designcode.io/sketch
-* Invision (Prototipação colaborativa) - http://www.invisionapp.com/
-* Adobe Experience Design (Preview) - http://www.adobe.com/jp/products/experience-design.html
-
-## Design
-
-* Photoshop - http://www.adobe.com/br/products/photoshop.html
-* Fireworks - http://www.adobe.com/br/products/fireworks.html
-* Illustrator CC - http://www.adobe.com/br/products/illustrator.html
-
-## Codificação
-
-* SublimeText - https://www.sublimetext.com/
-* Dreamweaver - http://www.adobe.com/br/products/dreamweaver.html
-* Visual Studio - https://code.visualstudio.com/
-* Brackets - http://brackets.io/
-
-## SEO & Otimização
-
-* Google Webmaster - https://www.google.com/intl/pt-BR/webmasters/#?modal_active=none
-* Google Analytics - https://www.google.com/intl/pt-BR/analytics/
-* Good Adwords (Key Planner) - https://adwords.google.com.br/KeywordPlanner
-* Bing Webmaster - http://www.bing.com/toolbox/webmaster
-* Woorank - https://www.woorank.com/pt
-* OpenLinkProfiler - http://openlinkprofiler.org/
-* Moz - https://moz.com/products/pro
-* http://tableless.com.br/seo-iniciantes-basico/
-
-## Outros
-
-* Asana - https://app.asana.com/0/102300481623694/102300481623695
-* Redepen - https://redpen.io/
-* GhostLab (Igual ao AdobeEdge) - https://www.vanamco.com/ghostlab/
-
-Os links foram baseados no material Leonardo Ferreira, disponivel em: https://www.youtube.com/watch?v=f15NQEyKoDU
